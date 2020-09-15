@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/mnamky
+Data file = C:\xampp\htdocs\mnamky/wp-content/themes/shopkeeper/inc/demo/shopkeeper.wordpress.xml
+Widget file = not defined!
+Customizer file = C:\xampp\htdocs\mnamky/wp-content/themes/shopkeeper/inc/demo/shopkeeper.customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+

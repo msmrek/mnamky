@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'pluto-cond-regular';
+					src: url('/mnamky/wp-content/uploads/useanyfont/6236Pluto-Cond-Regular.woff2') format('woff2'),
+						url('/mnamky/wp-content/uploads/useanyfont/6236Pluto-Cond-Regular.woff') format('woff');
+				}
+
+				.pluto-cond-regular{font-family: 'pluto-cond-regular' !important;}
+
+				.et_gf_pluto-cond-regular{background:none !important;font-family:pluto-cond-regular;text-indent:0 !important;font-size:25px;}
+
+		
